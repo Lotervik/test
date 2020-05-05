@@ -4,7 +4,7 @@ import './App.css';
 import './Modifpdf'
 import Modifpdf from './Modifpdf';
 import Formulaire from './Formulaire';
-/**s */
+/**sudo */
 class App extends Component {
   suiteFalse(val, tab){
     for(var i= val+1; i < tab.length; i++)
